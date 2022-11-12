@@ -14,6 +14,10 @@ description: >-
 [Hack The Box](https://app.gitbook.com/o/FAfpj4UMStJDTK9mDIqy/s/LjdLzhxh0V0LshlK8UYD/)
 {% endcontent-ref %}
 
+{% content-ref url="https://app.gitbook.com/o/FAfpj4UMStJDTK9mDIqy/s/YpbmRz4AQTFREJzUB0lL/" %}
+[Proving Grounds](https://app.gitbook.com/o/FAfpj4UMStJDTK9mDIqy/s/YpbmRz4AQTFREJzUB0lL/)
+{% endcontent-ref %}
+
 {% content-ref url="https://app.gitbook.com/o/FAfpj4UMStJDTK9mDIqy/s/B3kX9hcIBeLfEiIe2DLy/" %}
 [Try Hack Me](https://app.gitbook.com/o/FAfpj4UMStJDTK9mDIqy/s/B3kX9hcIBeLfEiIe2DLy/)
 {% endcontent-ref %}
