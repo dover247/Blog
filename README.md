@@ -6,16 +6,16 @@ description: >-
 
 # Blog
 
-{% content-ref url="https://app.gitbook.com/o/FAfpj4UMStJDTK9mDIqy/s/44z1JbEiJxgnTtwJXzlT/" %}
-[OSCP & Methodology](https://app.gitbook.com/o/FAfpj4UMStJDTK9mDIqy/s/44z1JbEiJxgnTtwJXzlT/)
-{% endcontent-ref %}
-
 {% content-ref url="https://app.gitbook.com/o/FAfpj4UMStJDTK9mDIqy/s/LjdLzhxh0V0LshlK8UYD/" %}
 [Hack The Box](https://app.gitbook.com/o/FAfpj4UMStJDTK9mDIqy/s/LjdLzhxh0V0LshlK8UYD/)
 {% endcontent-ref %}
 
 {% content-ref url="https://app.gitbook.com/o/FAfpj4UMStJDTK9mDIqy/s/YpbmRz4AQTFREJzUB0lL/" %}
 [Proving Grounds](https://app.gitbook.com/o/FAfpj4UMStJDTK9mDIqy/s/YpbmRz4AQTFREJzUB0lL/)
+{% endcontent-ref %}
+
+{% content-ref url="https://app.gitbook.com/o/FAfpj4UMStJDTK9mDIqy/s/44z1JbEiJxgnTtwJXzlT/" %}
+[OSCP & Methodology](https://app.gitbook.com/o/FAfpj4UMStJDTK9mDIqy/s/44z1JbEiJxgnTtwJXzlT/)
 {% endcontent-ref %}
 
 {% content-ref url="https://app.gitbook.com/o/FAfpj4UMStJDTK9mDIqy/s/B3kX9hcIBeLfEiIe2DLy/" %}
