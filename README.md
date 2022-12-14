@@ -17,7 +17,3 @@ description: >-
 {% content-ref url="https://app.gitbook.com/o/FAfpj4UMStJDTK9mDIqy/s/44z1JbEiJxgnTtwJXzlT/" %}
 [OSCP & Methodology](https://app.gitbook.com/o/FAfpj4UMStJDTK9mDIqy/s/44z1JbEiJxgnTtwJXzlT/)
 {% endcontent-ref %}
-
-{% content-ref url="https://app.gitbook.com/o/FAfpj4UMStJDTK9mDIqy/s/B3kX9hcIBeLfEiIe2DLy/" %}
-[Try Hack Me](https://app.gitbook.com/o/FAfpj4UMStJDTK9mDIqy/s/B3kX9hcIBeLfEiIe2DLy/)
-{% endcontent-ref %}
