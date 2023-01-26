@@ -102,7 +102,7 @@ As an Offensive Security Certified Professional (OSCP) with a strong motivation 
 * Possessed a broad range of technical expertise, including familiarity with Imap, Pop3, Smtp, Http, Outlook, PowerShell, Office 365, Rest-Based Web API, DNS Hosting & Registration.
 * Contributed to the development of a specialized Python module and tools specifically tailored to the management of Rackspace Email and associated apps.
 
-#### Client Advocate | Digital Defense, Inc - San Antonio, Texas|03/2017 - 11/2017
+#### Client Advocate | Digital Defense, Inc - San Antonio, Texas | 03/2017 - 11/2017
 
 * Implemented a comprehensive security framework by engaging in the setup of various security services and collaborating with AT\&T, including but not limited to vulnerability scanning, penetration testing, and remote and on-site social engineering.
 * Possessed the foundational technical knowledge necessary to execute these tasks, which included expertise in basic networking and operating systems.
