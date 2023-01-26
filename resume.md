@@ -1,6 +1,6 @@
 # Resume
 
-### JORGE SAUCEDA
+### GEORGE SAUCEDA
 
 george.sauceda@outlook.com | (956)413-2924 | San Antonio, TX 78217
 
