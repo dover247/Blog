@@ -1,21 +1,19 @@
 ---
 description: >-
-  This platform serves as a means for me to showcase my personal projects, work
-  experiences, challenges, and learning within the field of offensive security
-  and is intended to demonstrate my growth.
+  This platform serves as a means for me to showcase my personal projects,
+  challenges, and learning within the field of offensive security and is
+  intended to demonstrate my growth.
 ---
 
 # Blog
 
-Greetings! My name is George, but I am also known as "TheScriptKid" online. I have been actively engaged in the field of penetration testing since 2013. My initial steps included self-study of fundamental concepts such as Linux, computer networking, security principles, and programming.
+Hello! I'm George, also known as "TheScriptKid" online, and I've been actively immersed in penetration testing since 2013. This platform serves as a dynamic showcase of my personal projects, work experiences, challenges, and growth within offensive security.
 
-In 2017, I made the decision to pursue the Offensive Security Certified Professional (OSCP) certification. To gain hands-on experience, I utilized the Hack The Box platform and local vulnerable machines obtained from Vulnhub.
+In 2017, I committed to enhancing my skills by pursuing the Offensive Security Certified Professional (OSCP) certification. To gain hands-on expertise, I leveraged platforms like Hack The Box and local vulnerable machines from Vulnhub. Despite a temporary hiatus in 2019 due to employment commitments, I earned the Red Hat Certified Systems Administrator (RHCSA) certification in 2021, marking a significant milestone.
 
-In early 2019, I took a temporary hiatus to focus on my employment at the time. However, in 2021 I earned my Red Hat Certified Systems Administrator (RHCSA) certification. Later that same year, I resumed my pursuit of the OSCP.
+Returning to my OSCP pursuit later in the same year, I successfully achieved the certification in December 2022. This accomplishment was made possible through the strategic use of online resources, including Hack The Box, TryHackMe, Proving Grounds, cheatsheets, course materials, and labs provided by Offensive Security.
 
-With the assistance of online resources such as Hack The Box, TryHackMe, Proving Grounds, cheatsheets and notes created by others, as well as the course material and labs provided by Offensive Security, I was able to successfully achieve the OSCP certification in December 2022.
-
-Below, you will find a selection of write-ups and reports that I have personally generated from boxes completed on Hack The Box and Proving Grounds. Additionally, I have also included personal notes that I have compiled throughout my journey in penetration testing.
+Below, you'll find a curated selection of write-ups and reports generated from completed challenges on platforms like Hack The Box and Proving Grounds. Additionally, I've included personal notes that capture key insights gained throughout my journey in penetration testing.&#x20;
 
 {% content-ref url="https://app.gitbook.com/o/FAfpj4UMStJDTK9mDIqy/s/LjdLzhxh0V0LshlK8UYD/" %}
 [Hack The Box](https://app.gitbook.com/o/FAfpj4UMStJDTK9mDIqy/s/LjdLzhxh0V0LshlK8UYD/)
