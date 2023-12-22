@@ -15,14 +15,14 @@ Returning to my OSCP pursuit later in the same year, I successfully achieved the
 
 Below, you'll find a curated selection of write-ups and reports generated from completed challenges on platforms like Hack The Box and Proving Grounds. Additionally, I've included personal notes that capture key insights gained throughout my journey in penetration testing.&#x20;
 
+{% content-ref url="https://app.gitbook.com/o/FAfpj4UMStJDTK9mDIqy/s/44z1JbEiJxgnTtwJXzlT/" %}
+[OSCP Methodology & Notes](https://app.gitbook.com/o/FAfpj4UMStJDTK9mDIqy/s/44z1JbEiJxgnTtwJXzlT/)
+{% endcontent-ref %}
+
 {% content-ref url="https://app.gitbook.com/o/FAfpj4UMStJDTK9mDIqy/s/LjdLzhxh0V0LshlK8UYD/" %}
-[Hack The Box](https://app.gitbook.com/o/FAfpj4UMStJDTK9mDIqy/s/LjdLzhxh0V0LshlK8UYD/)
+[Hack The Box Writeups](https://app.gitbook.com/o/FAfpj4UMStJDTK9mDIqy/s/LjdLzhxh0V0LshlK8UYD/)
 {% endcontent-ref %}
 
 {% content-ref url="https://app.gitbook.com/o/FAfpj4UMStJDTK9mDIqy/s/YpbmRz4AQTFREJzUB0lL/" %}
-[Proving Grounds](https://app.gitbook.com/o/FAfpj4UMStJDTK9mDIqy/s/YpbmRz4AQTFREJzUB0lL/)
-{% endcontent-ref %}
-
-{% content-ref url="https://app.gitbook.com/o/FAfpj4UMStJDTK9mDIqy/s/44z1JbEiJxgnTtwJXzlT/" %}
-[OSCP & Methodology](https://app.gitbook.com/o/FAfpj4UMStJDTK9mDIqy/s/44z1JbEiJxgnTtwJXzlT/)
+[Proving Grounds Writeups](https://app.gitbook.com/o/FAfpj4UMStJDTK9mDIqy/s/YpbmRz4AQTFREJzUB0lL/)
 {% endcontent-ref %}
