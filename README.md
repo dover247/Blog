@@ -9,7 +9,7 @@ description: >-
 
 Hello! I'm George, also known as "TheScriptKid" online, and I've been actively immersed in penetration testing since 2013. This platform serves as a dynamic showcase of my personal projects, work experiences, challenges, and growth within offensive security.
 
-In 2017, I committed to enhancing my skills by pursuing the Offensive Security Certified Professional (OSCP) certification. To gain hands-on expertise, I leveraged platforms like Hack The Box and local vulnerable machines from Vulnhub. Despite a temporary hiatus in 2019 due to employment commitments, I earned the Red Hat Certified Systems Administrator (RHCSA) certification in 2021, marking a significant milestone.
+In 2017, I committed to enhancing my skills by pursuing the Offensive Security Certified Professional (OSCP) certification. To gain hands-on expertise, I leveraged platforms like Hack The Box and local vulnerable machines from Vulnhub. I earned the Red Hat Certified Systems Administrator (RHCSA) certification in 2021, marking a significant milestone.
 
 Returning to my OSCP pursuit later in the same year, I successfully achieved the certification in December 2022. This accomplishment was made possible through the strategic use of online resources, including Hack The Box, TryHackMe, Proving Grounds, cheatsheets, course materials, and labs provided by Offensive Security.
 
